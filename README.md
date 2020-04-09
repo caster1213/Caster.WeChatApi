@@ -12,7 +12,7 @@ Caster.WeChatApi使用微软新一代跨平台框架dotnet core进行开发 ,集
 
 ### 如何安装
 ```
-> dotnet add package caster.wechat
+> dotnet add package caster.wechatapi
 ```
 ### 如何使用
 注入 WeChatClient 
