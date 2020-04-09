@@ -23,10 +23,10 @@ public void ConfigureServices(IServiceCollection services)
     services.AddWeChatClient();
     
     // 使用自定义AccessToken存储ApiClient
-    services.AddWeChatClient<ITokenRepsitory>();
+    services.AddWeChatClient<ITokenRepository>();
     
     //使用自定义AccessToken存储和自定义缓存ApiClient
-    services.AddWeChatClient<ITokenRepsitory,ICache>();
+    services.AddWeChatClient<ITokenRepository,ICache>();
 }
 ```
 接受微信消息和微信支付通知

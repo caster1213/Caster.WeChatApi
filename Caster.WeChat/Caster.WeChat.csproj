@@ -3,6 +3,9 @@
     <PropertyGroup>
         <TargetFramework>netcoreapp2.2</TargetFramework>
         <RootNamespace>Caster.WeChat</RootNamespace>
+        <PackageId>Caster.WeChatApi</PackageId>
+        <Authors>Caster</Authors>
+        <PackageProjectUrl>https://github.com/caster1213/Caster.WeChatApi</PackageProjectUrl>
     </PropertyGroup>
 
     <ItemGroup>
