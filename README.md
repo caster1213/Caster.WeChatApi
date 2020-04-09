@@ -200,7 +200,7 @@ PayService |支付
 ### 维护者
 [@Caster](https://github.com/caster1213)
 ### 使用许可
-MIT © Caster
+MIT
 
 
 
